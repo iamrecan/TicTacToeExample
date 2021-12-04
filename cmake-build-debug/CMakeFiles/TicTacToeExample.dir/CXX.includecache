@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Emre/YandexDisk/TicTacToeExample/TicTacToe.cpp
+TicTacToe.h
+C:/Users/Emre/YandexDisk/TicTacToeExample/TicTacToe.h
+fstream
+-
+
+C:/Users/Emre/YandexDisk/TicTacToeExample/TicTacToe.h
+stdio.h
+-
+iostream
+-
+cstring
+-
+string
+-
+fstream
+-
+
+C:/Users/Emre/YandexDisk/TicTacToeExample/main.cpp
+iostream
+-
+TicTacToe.h
+C:/Users/Emre/YandexDisk/TicTacToeExample/TicTacToe.h
+
